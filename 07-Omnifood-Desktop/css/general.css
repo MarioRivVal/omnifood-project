@@ -24,7 +24,7 @@ LETTER SPACING
 
 Primary: #e67e22
 
-Tints: #fdf2e9 #fae5de
+Tints: #fdf2e9 #fae5de #eb984e
 Shades:#cf711f
 Accents:
 Greys:
@@ -134,6 +134,7 @@ body {
 .container {
   max-width: 120rem;
   margin: 0 auto;
+  padding: 0 3.2rem;
 }
 .grid {
   display: grid;
